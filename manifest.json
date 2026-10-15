@@ -1,0 +1,38 @@
+{
+  "manifest_version": "1.0",
+  "org": "jupyter-server",
+  "repo": "jupyter_server_mathjax",
+  "versions": [
+    {
+      "commit": "286f3852ae2490f649c663638f3f2f2503599cf8",
+      "parsed_at": "2026-10-15T13:39:00.891257+00:00",
+      "filetree": "filetree/286f3852ae2490f649c663638f3f2f2503599cf8.nq.gz",
+      "blobs": [
+        "blob/7f652648d222565ac8c87f2de2dbbde8281a4a09.nq.gz",
+        "blob/edddc1a6e516e1dee038d376550d175924a83ef3.nq.gz",
+        "blob/c22984cb8705b94cd89a4633fd18d6507c01b01c.nq.gz",
+        "blob/0033efc0b86f61d59270818ad798a7704544cad4.nq.gz",
+        "blob/12db427fd4082ef3c2100b71d8a3531f75812051.nq.gz",
+        "blob/9dfa5688301fe13b7b948f3ddf9a5788bc5d57c5.nq.gz",
+        "blob/974f85e6e3324919fdc1b6cb5965b798917c56bd.nq.gz",
+        "blob/0722960e516e7c8def9000426db4faf86dff0cdb.nq.gz",
+        "blob/72a37ea142417e9cda6d5fd7dd12295539edb0a0.nq.gz",
+        "blob/32ba6fc0b3e0790be337caa791012c880f4b9d80.nq.gz",
+        "blob/f1c2c50335bc1639a5aefa3523cb998ea76a3a7d.nq.gz",
+        "blob/44d0f243b9c4c43692083490dbc479643354ea53.nq.gz",
+        "blob/4a456f726d7799f430b05ea12dd769ab89bad665.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/32d86be31c0d187155f1bea7a3af8208210d48a2.nq.gz",
+        "blob/1874003e7d1223a2aa052c3b5a3ff78c5365f505.nq.gz",
+        "blob/14dcfad379ba3b949f237ed4365633d2306d2648.nq.gz",
+        "blob/660aabc3e34c041274b4e381b70ac01a7305eb16.nq.gz",
+        "blob/ab5fef452545691608abb03d30f0ce36818b9a89.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
