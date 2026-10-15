@@ -1,0 +1,11 @@
+{
+  "org": "jupyter-server",
+  "repo": "jupyter_server_mathjax",
+  "versions": [
+    {
+      "commit": "286f3852ae2490f649c663638f3f2f2503599cf8",
+      "tag": "",
+      "parsed_at": "2026-10-15T13:41:30.670094+00:00"
+    }
+  ]
+}
