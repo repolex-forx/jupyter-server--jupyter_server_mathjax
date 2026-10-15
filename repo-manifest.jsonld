@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/jupyter-server/jupyter_server_mathjax/commit/286f3852ae2490f649c663638f3f2f2503599cf8",
       "git:hexsha": "286f3852ae2490f649c663638f3f2f2503599cf8",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-15T13:41:30.669604+00:00"
     },
     {
       "@id": "https://repolex.ai/r/jupyter-server/jupyter_server_mathjax/commit/081e18fb94e1b73f64f0898443033662accc559a",
